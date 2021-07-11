@@ -6,6 +6,7 @@
 
 Entenda os conceitos essenciais de ciencia de dados e quais elementos compõe esse conceito.
 
+## Aulas desse curso:
 ✅ **Overview data science**<br>
 ✅ **Tipos de aprendizagem de máquina**<br>
 ✅ **Modelo em Python**<br>
