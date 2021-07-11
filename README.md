@@ -7,7 +7,6 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 </h1>
 
 ## Cursos deste Bootcamp 
-✅ **<a href="">Boas-vindas ao Bootcamp Banco Carrefour Data Engineer</a>** <br>
 ✅ **<a href="">Introducao ao Git e ao GitHub</a>** <br>
 ✅ **<a href="">Linux: A introducao ao sistema operacional</a>** <br>
 ✅ **<a href="">Shell script - Manipulando Arquivos </a>** <br>
