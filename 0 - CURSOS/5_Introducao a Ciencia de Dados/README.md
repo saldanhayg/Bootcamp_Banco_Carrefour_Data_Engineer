@@ -1,27 +1,19 @@
-# 💻   
+# 💻   Introdução a Ciência de Dados
 
 <h1>
-   <img src=" img " border="0">
+   <img src="https://i.ibb.co/fX1P4BF/D9492410.jpg" border="0">
 </h1>
 
-Descritivo  
+Entenda os conceitos essenciais de ciencia de dados e quais elementos compõe esse conceito.
 
-## Sobre: 
-
-Tópicos co curso :<br>
-✅ ** Texto aqui **<br>
-
-
-
-
-## Tecnologia utilizadas 🚀:
-
-* <a href="https://pt.wikipedia.org/wiki/Power_BI">Power BI</a> 
+✅ **Overview data science**<br>
+✅ **Tipos de aprendizagem de máquina**<br>
+✅ **Modelo em Python**<br>
 
 
 ## Link deste curso  💻
 
- 🎯 <a href="             " target="_blank">                 </a>
+ 🎯 <a href="https://digitalinnovation.one/cursos/introducao-a-ciencia-de-dados?ref=certificate/D9492410" target="_blank">Introdução a Ciência de Dados</a>
 
 <br>
 <br>
