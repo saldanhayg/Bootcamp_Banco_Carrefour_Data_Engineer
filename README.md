@@ -21,9 +21,9 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✅ **<a href="">SeguranÃ§a da informacao com Python</a>** <br>
 ✅ **<a href="">Fundamentos de ETL com Python</a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/14_Introducao%20ao%20Big%20Data%20e%20Hadoop">Introducao ao Big Data e Hadoop</a>** <br>
-✅ **<a href="">Arquitetura e Modelagem de Dados </a>** <br>
-✅ **<a href="">Governanca de Dados</a>** <br>
-✅ **<a href="">Monitoramento de clusters Hadoop de alto nivel com HDFS e YARN</a>** <br>
+✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/15_Arquitetura%20e%20Modelagem%20de%20Dados">Arquitetura e Modelagem de Dados </a>** <br>
+✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/16_Governanca%20de%20Dados">Governanca de Dados</a>** <br>
+✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/17_Monitoramento%20de%20clusters%20Hadoop%20de%20alto%20nivel%20com%20HDFS%20e%20YARN">Monitoramento de clusters Hadoop de alto nivel com HDFS e YARN</a>** <br>
 ✅ **<a href="">Orquestrando ambientes de Big Data distribuidos com Zookeeper, Yarn e Sqoop</a>** <br>
 ✅ **<a href="">Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala</a>** <br>
 ✅ **<a href="">Processando grandes conjuntos de dados de forma paralela e distribuida com Spark</a>** <br>
