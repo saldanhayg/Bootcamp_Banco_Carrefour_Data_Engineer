@@ -45,36 +45,36 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 
 ## MENTORIAS deste Bootcamp 
  
-Manipulando dados com Shell Script			<br>
-06/07/2021	14:00<br>
-https://www.youtube.com/watch?v=t_lJLR-foxk<br>
+✔  Manipulando dados com Shell Script<br>
+06/07/2021 <br>
 <br>
-Tudo o que voce sempre quis saber sobre Arquitetura de Sistemas no contexto da Engenharia de Dados<br>
-13/07/2021	14:00<br>
+✔  Tudo o que voce sempre quis saber sobre Arquitetura de Sistemas no contexto da Engenharia de Dados<br>
+13/07/2021 <br>
 <br>
-Trabalhando com Bancos de Dados SQL e NoSQL<br>
-20/07/2021	14:00<br>
+✔  rabalhando com Bancos de Dados SQL e NoSQL<br>
+20/07/2021 <br>
 <br>
-Tudo o que voce sempre quis saber sobre Python no contexto da Engenharia de Dados<br>
-27/07/2021	14:00<br>
+✔  udo o que voce sempre quis saber sobre Python no contexto da Engenharia de Dados<br>
+27/07/2021 <br>
 <br>
-Tudo o que voce sempre quis saber sobre Big Data e Hadoop<br>
-03/08/2021	14:00<br>
+✔  Tudo o que voce sempre quis saber sobre Big Data e Hadoop<br>
+03/08/2021 <br>
 <br>
-Data Discovery com Pandas<br>
-10/08/2021	14:00<br>
+✔  Data Discovery com Pandas<br>
+10/08/2021 <br>
 <br>
-Importacao e Manipulacao de Dados na Pratica com MicroStrategy<br>
-17/08/2021	14:00<br>
+✔  Importacao e Manipulacao de Dados na Pratica com MicroStrategy<br>
+17/08/2021 <br>
 
-### Link deste curso 
+## Link deste curso
 
  🎯 <a href="https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path" target="_blank">Banco Carrefour Data Engineer</a>
 
-### Me siga nas redes sociais 
- 
+## Me siga nas redes sociais
+
 👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
+<br> 
 <br> 
 “Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
 <br>
