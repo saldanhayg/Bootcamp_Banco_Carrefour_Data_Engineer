@@ -5,9 +5,13 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 <h1>
    <img src="https://i.ibb.co/Pg5FzB9/d7be5c57-e2a2-4e6a-82ce-240fa0f8547d.png" border="0">
 </h1>
+<br>
+<h1>
+   <img src="https://i.ibb.co/93DXdL3/A06F0C66.jpg" alt="Bootcamp Banco Carrefour Data Engineer" border="0"></a>
+</h1>
 
 ## Cursos deste Bootcamp 
-✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/1%20_Introducao%20ao%20Git%20e%20ao%20GitHub">Introducao ao Git e ao GitHub</a>** <br>
+✅ **<a href="https://certificates.digitalinnovation.one/200FFE59">Introducao ao Git e ao GitHub</a>** <br>
 ✅ **<a href="">Linux: A introducao ao sistema operacional</a>** <br>
 ✅ **<a href="">Shell script - Manipulando Arquivos </a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/4_Introducao%20a%20Engenharia%20de%20Dados">Introducao a Engenharia de Dados</a>** <br>
@@ -63,13 +67,16 @@ Data Discovery com Pandas<br>
 Importacao e Manipulacao de Dados na Pratica com MicroStrategy<br>
 17/08/2021	14:00<br>
 
-## Link deste curso  💻
+### Link deste curso 
 
  🎯 <a href="https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path" target="_blank">Banco Carrefour Data Engineer</a>
 
-<br>
-<br>
-[Me siga nas redes sociais](https://linktr.ee/ygtecnologia)
+### Me siga nas redes sociais 
+ 
+👨‍💼🔮  https://linktr.ee/ygtecnologia 
 <br>
 <br> 
-🙏 Oração ! Foco ! Ação ! Jeova Jireh - Deus Provera 🙏 
+“Investir em conhecimento rende sempre os melhores juros“. Benjamim Franklin
+<br>
+<br> 
+🙏 Oração ! Foco ! Ação ! Yeshua Hamashia
