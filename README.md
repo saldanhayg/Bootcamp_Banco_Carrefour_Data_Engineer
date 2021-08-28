@@ -40,31 +40,32 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 
 ## PROJETOS deste Bootcamp 
 ✅ **<a href="">Analise de dados com Python e Pandas</a>** <br>
-✅ **<a href="">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a>** <br>
+✅ **<a href="https://tinyurl.com/hvjvwbfa">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a>** <br>
   
 
 ## MENTORIAS deste Bootcamp 
  
 ✔  Manipulando dados com Shell Script<br>
-06/07/2021 <br>
+   -> https://tinyurl.com/y6dnyxyy<br>
 <br>
-✔  Tudo o que voce sempre quis saber sobre Arquitetura de Sistemas no contexto da Engenharia de Dados<br>
-13/07/2021 <br>
+✔  Tudo o que você sempre quis saber sobre Arquitetura de Sistemas no contexto da Engenharia de Dados<br>
+    -> https://tinyurl.com/3x6hshhp<br>
 <br>
-✔  rabalhando com Bancos de Dados SQL e NoSQL<br>
-20/07/2021 <br>
+✔  Trabalhando com Bancos de Dados SQL e NoSQL<br>
+   -> https://tinyurl.com/4y2bnbh3<br>
 <br>
-✔  Tudo o que voce sempre quis saber sobre Python no contexto da Engenharia de Dados<br>
-27/07/2021 <br>
+✔  Construindo Modelos de Machine Learning e Comparando os Algoritmos mais Usados<br>
+   -> https://tinyurl.com/peh7yx34
 <br>
-✔  Tudo o que voce sempre quis saber sobre Big Data e Hadoop<br>
-03/08/2021 <br>
+✔  Tudo o que você sempre quis saber sobre Big Data e Hadoop<br>
+   -> https://tinyurl.com/35aj7nzx
 <br>
 ✔  Data Discovery com Pandas<br>
-10/08/2021 <br>
+   -> https://tinyurl.com/u2hyu93r
 <br>
 ✔  Importacao e Manipulacao de Dados na Pratica com MicroStrategy<br>
-17/08/2021 <br>
+   -> https://tinyurl.com/4mjzrk8w
+<br>
 
 ## Link deste Bootcamp
 
