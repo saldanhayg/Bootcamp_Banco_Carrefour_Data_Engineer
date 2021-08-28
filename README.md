@@ -55,16 +55,16 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
    -> https://tinyurl.com/4y2bnbh3<br>
 <br>
 ✔  Construindo Modelos de Machine Learning e Comparando os Algoritmos mais Usados<br>
-   -> https://tinyurl.com/peh7yx34
+   -> https://tinyurl.com/peh7yx34<br>
 <br>
 ✔  Tudo o que você sempre quis saber sobre Big Data e Hadoop<br>
-   -> https://tinyurl.com/35aj7nzx
+   -> https://tinyurl.com/35aj7nzx<br>
 <br>
 ✔  Data Discovery com Pandas<br>
-   -> https://tinyurl.com/u2hyu93r
+   -> https://tinyurl.com/u2hyu93r<br>
 <br>
 ✔  Importacao e Manipulacao de Dados na Pratica com MicroStrategy<br>
-   -> https://tinyurl.com/4mjzrk8w
+   -> https://tinyurl.com/4mjzrk8w<br>
 <br>
 
 ## Link deste Bootcamp
