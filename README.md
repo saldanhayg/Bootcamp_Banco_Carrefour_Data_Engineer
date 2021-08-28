@@ -66,7 +66,7 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✔  Importacao e Manipulacao de Dados na Pratica com MicroStrategy<br>
 17/08/2021 <br>
 
-## Link deste curso
+## Link deste Bootcamp
 
  🎯 <a href="https://web.digitalinnovation.one/track/banco-carrefour-data-engineer?tab=path" target="_blank">Banco Carrefour Data Engineer</a>
 
