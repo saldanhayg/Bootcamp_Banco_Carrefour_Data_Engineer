@@ -54,7 +54,7 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✔  rabalhando com Bancos de Dados SQL e NoSQL<br>
 20/07/2021 <br>
 <br>
-✔  udo o que voce sempre quis saber sobre Python no contexto da Engenharia de Dados<br>
+✔  Tudo o que voce sempre quis saber sobre Python no contexto da Engenharia de Dados<br>
 27/07/2021 <br>
 <br>
 ✔  Tudo o que voce sempre quis saber sobre Big Data e Hadoop<br>
