@@ -12,8 +12,8 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 
 ## Cursos deste Bootcamp 
 ✅ **<a href="https://certificates.digitalinnovation.one/200FFE59">Introducao ao Git e ao GitHub</a>** <br>
-✅ **<a href="">Linux: A introducao ao sistema operacional</a>** <br>
-✅ **<a href="">Shell script - Manipulando Arquivos </a>** <br>
+✅ **<a href="https://tinyurl.com/5f7sa42h">Linux: A introducao ao sistema operacional</a>** <br>
+✅ **<a href="https://tinyurl.com/54abzfux">Shell script - Manipulando Arquivos </a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/4_Introducao%20a%20Engenharia%20de%20Dados">Introducao a Engenharia de Dados</a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/5_Introducao%20a%20Ciencia%20de%20Dados">Introducao a Ciencia de Dados</a>** <br>
 ✅ **<a href="https://certificates.digitalinnovation.one/33D9A38E">Fundamentos de Arquitetura de Sistemas</a>** <br>
