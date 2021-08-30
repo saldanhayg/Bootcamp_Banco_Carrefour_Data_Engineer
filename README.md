@@ -22,7 +22,7 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/9_Conceitos%20e%20melhores%20praticas%20com%20bancos%20de%20dados%20PostgreSQL">Conceitos e melhores praticas com bancos de dados PostgreSQL</a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/10_Introducao%20ao%20MongoDB%20e%20Bancos%20de%20Dados%20NoSQL">Introducao ao MongoDB e Bancos de Dados NoSQL</a>** <br>
 ✅ **<a href="https://tinyurl.com/wjzeys3y">Introducao a programacao com Python</a>** <br>
-✅ **<a href="">Segurança da informacao com Python</a>** <br>
+✅ **<a href="https://tinyurl.com/mh3a5579">Segurança da informacao com Python</a>** <br>
 ✅ **<a href="https://tinyurl.com/yhaxa99p">Fundamentos de ETL com Python</a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/14_Introducao%20ao%20Big%20Data%20e%20Hadoop">Introducao ao Big Data e Hadoop</a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/15_Arquitetura%20e%20Modelagem%20de%20Dados">Arquitetura e Modelagem de Dados </a>** <br>
