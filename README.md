@@ -29,10 +29,10 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/16_Governanca%20de%20Dados">Governanca de Dados</a>** <br>
 ✅ **<a href="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/tree/main/0%20-%20CURSOS/17_Monitoramento%20de%20clusters%20Hadoop%20de%20alto%20nivel%20com%20HDFS%20e%20YARN">Monitoramento de clusters Hadoop de alto nivel com HDFS e YARN</a>** <br>
 ✅ **<a href="">Orquestrando ambientes de Big Data distribuidos com Zookeeper, Yarn e Sqoop</a>** <br>
-✅ **<a href="">Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala</a>** <br>
+✅ **<a href="https://tinyurl.com/b57v444r">Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala</a>** <br>
 ✅ **<a href="">Processando grandes conjuntos de dados de forma paralela e distribuida com Spark</a>** <br>
 ✅ **<a href="">Criando pipelines de dados eficientes com Spark e Python</a>** <br>
-✅ **<a href="">Trabalhando com visualizacao de dados usando MicroStrategy</a>** <br>
+✅ **<a href="https://tinyurl.com/24wbf332">Trabalhando com visualizacao de dados usando MicroStrategy</a>** <br>
 
 ## DESAFIOS deste Bootcamp 
 ✅ **<a href="">Solucoes Aritmeticas em Python</a>** <br>
