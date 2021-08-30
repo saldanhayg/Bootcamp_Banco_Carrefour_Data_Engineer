@@ -48,57 +48,56 @@ Este curso trata como trabalhar com segurança da informação com a linguagem P
 ✔  **Ferramenta Gráfica para abrir o navegador**<br>
 
 <h2>
-
+ <img src="https://raw.githubusercontent.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/1.JPG" alt="Segurança da informação com Python" border="0">
+</h2>
+<br>
+<h2>
+   <img src="https://raw.githubusercontent.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/2.JPG" alt="Segurança da informação com Python" border="0"> 
 </h2>
 <br>
 
 <h2>
-   
-</h2>
-<br>
-
-<h2>
-   
+    <img src="https://raw.githubusercontent.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/3.JPG" alt="Segurança da informação com Python" border="0">
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/4.JPG?raw=true" alt="Segurança da informação com Python" border="0">
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/5.JPG?raw=true" alt="Segurança da informação com Python" border="0">
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/6.JPG?raw=true" alt="Segurança da informação com Python" border="0">   
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/7.JPG?raw=true" alt="Segurança da informação com Python" border="0">   
 </h2>
 <br>
 <h2>
-   
+   <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/8.JPG?raw=true" alt="Segurança da informação com Python" border="0">    
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/9.JPG?raw=true" alt="Segurança da informação com Python" border="0">   
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/10.JPG?raw=true" alt="Segurança da informação com Python" border="0">   
 </h2>
 <br>
 <h2>
-   
+      <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/11.JPG?raw=true" alt="Segurança da informação com Python" border="0"> 
 </h2>
 <br>
 <h2>
-   
+      <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/12.jpg?raw=true" alt="Segurança da informação com Python" border="0"> 
 </h2>
 <br>
 <h2>
-   
+    <img src="https://github.com/saldanhayg/Bootcamp_Banco_Carrefour_Data_Engineer/blob/main/0%20-%20CURSOS/12_Seguran%C3%A7a%20da%20informacao%20com%20Python/img/13.JPG?raw=true" alt="Segurança da informação com Python" border="0">   
 </h2>
 <br>
 
