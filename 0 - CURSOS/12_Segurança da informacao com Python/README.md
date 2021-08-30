@@ -1,7 +1,7 @@
 # 💻   Segurança da informação com Python
 
 <h1>
-   <img src=" img " border="0">
+   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/PYTHON/Seguran%C3%A7a%20da%20informa%C3%A7%C3%A3o%20com%20Python.jpg" border="0">
 </h1>
 
 Este curso trata como trabalhar com segurança da informação com a linguagem Python, uma das mais usadas por desenvolvedores de todo o mundo e que é de fácil aprendizado.
@@ -36,7 +36,7 @@ Este curso trata como trabalhar com segurança da informação com a linguagem P
 <br>
 ✔  Biblioteca Socket<br>
 ✔  Desenvolvimento de um cliente TCP<br>
-✔   Desenvolvimento de um cliente UDP<br>
+✔  Desenvolvimento de um cliente UDP<br>
 ✔  Desenvolvimento de um Server<br>
 <br>
 <h3>3 - Desenvolvimento de ferramentas - Parte 1</h3>
