@@ -1,7 +1,7 @@
 # 💻   Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala
 
 <h1>
-   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/CURSOS/BI/Como%20realizar%20consultas%20de%20maneira%20simples%20no%20ambiente%20complexo%20de%20Big%20Data%20com%20Hive%20e%20Impala.jpg" border="0">
+   <img src="https://tinyurl.com/46884mhz" border="0">
 </h1>
 
 Abstraia o armazenamento e execução de consultas a bancos de dados relacionais (SQL) em ambientes Hadoop. Nesse contexto, o expert apresenta na prática as ferramentas Apache Hive e Apache Impala.
