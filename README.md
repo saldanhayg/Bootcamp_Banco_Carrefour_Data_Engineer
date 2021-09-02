@@ -39,8 +39,8 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✅ **<a href="">Solucionando Desafios em Python</a>** <br>
 
 ## PROJETOS deste Bootcamp 
-✅ **<a href="">Analise de dados com Python e Pandas</a>** <br>
-✅ **<a href="https://tinyurl.com/hvjvwbfa">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a>** <br>
+✅ **<a href="https://github.com/saldanhayg/Projeto_DIO_Analise_Dados-com-Python_Pandas">Analise de dados com Python e Pandas</a>** <br>
+✅ **<a href="https://github.com/saldanhayg/ProjetoDio_Google-Cloud-Dataproc">Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</a>** <br>
   
 
 ## MENTORIAS deste Bootcamp 
