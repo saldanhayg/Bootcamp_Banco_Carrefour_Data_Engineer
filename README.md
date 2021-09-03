@@ -30,8 +30,8 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✅ **<a href="https://tinyurl.com/f23jrp7f">Monitoramento de clusters Hadoop de alto nivel com HDFS e YARN</a>** <br>
 ✅ **<a href="https://tinyurl.com/u9bbhn34">Orquestrando ambientes de Big Data distribuidos com Zookeeper, Yarn e Sqoop</a>** <br>
 ✅ **<a href="https://tinyurl.com/b57v444r">Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala</a>** <br>
-✅ **<a href="">Processando grandes conjuntos de dados de forma paralela e distribuida com Spark</a>** <br>
-✅ **<a href="">Criando pipelines de dados eficientes com Spark e Python</a>** <br>
+✅ **<a href="https://tinyurl.com/3cfu34p6">Processando grandes conjuntos de dados de forma paralela e distribuida com Spark</a>** <br>
+✅ **<a href="https://tinyurl.com/5w2n5xsd">Criando pipelines de dados eficientes com Spark e Python</a>** <br>
 ✅ **<a href="https://tinyurl.com/24wbf332">Trabalhando com visualizacao de dados usando MicroStrategy</a>** <br>
 
 ## DESAFIOS deste Bootcamp 
