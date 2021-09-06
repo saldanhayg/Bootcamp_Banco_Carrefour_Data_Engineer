@@ -7,7 +7,7 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 </h1>
 <br>
 <h1>
-   <img src="https://i.ibb.co/93DXdL3/A06F0C66.jpg" alt="Bootcamp Banco Carrefour Data Engineer" border="0"></a>
+   <img src="https://raw.githubusercontent.com/saldanhayg/Certificados/main/BOOTCAMP/Banco%20Carrefour%20Data%20Engineer.jpg" alt="Bootcamp Banco Carrefour Data Engineer" border="0"></a>
 </h1>
 
 ## Cursos deste Bootcamp 
