@@ -35,8 +35,8 @@ Este bootcamp focado em engenharia de dados, foco em aprender com grandes expert
 ✅ **<a href="https://tinyurl.com/24wbf332">Trabalhando com visualizacao de dados usando MicroStrategy</a>** <br>
 
 ## DESAFIOS deste Bootcamp 
-✅ **<a href="">Solucoes Aritmeticas em Python</a>** <br>
-✅ **<a href="">Solucionando Desafios em Python</a>** <br>
+✅ **<a href="https://tinyurl.com/5ereu9sm">Solucoes Aritmeticas em Python</a>** <br>
+✅ **<a href="https://tinyurl.com/3uedxmc7">Solucionando Desafios em Python</a>** <br>
 
 ## PROJETOS deste Bootcamp 
 ✅ **<a href="https://github.com/saldanhayg/Projeto_DIO_Analise_Dados-com-Python_Pandas">Analise de dados com Python e Pandas</a>** <br>

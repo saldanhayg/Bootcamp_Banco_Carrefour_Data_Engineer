@@ -9,9 +9,9 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ## DESAFIOS deste Bootcamp 
 
-✔ ***Média 3***
-✔ ***Folha de Pagamento***
-✔ ***Programa para Validação de Notas***
+✔ ***Média 3*** <br>
+✔ ***Folha de Pagamento*** <br>
+✔ ***Programa para Validação de Notas*** <br>
 
 ## Link deste Bootcamp
 

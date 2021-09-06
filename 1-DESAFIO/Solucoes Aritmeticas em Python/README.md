@@ -9,9 +9,9 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ## DESAFIOS deste Bootcamp 
 
-✔ ***Notas da Prova***
-✔ ***Preenchimento de Vetor***
-✔ ***Triângulo***
+✔ ***Notas da Prova*** <br>
+✔ ***Preenchimento de Vetor*** <br>
+✔ ***Triângulo*** <br>
 
 ## Link deste Bootcamp
 
